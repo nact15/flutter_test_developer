@@ -1,0 +1,8 @@
+{
+  "currencySymbol": "₽",
+  "basket": "Корзина",
+  "food": "Еда",
+  "categories": "Категории",
+  "basketIsEmpty": "Ваша корзина пуста",
+  "want": "Хочу!"
+}

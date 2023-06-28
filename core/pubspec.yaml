@@ -1,0 +1,32 @@
+name: core
+description: A new Flutter plugin project.
+version: 0.0.1
+homepage: 'none'
+
+environment:
+  sdk: '>=3.0.0-261.0.dev <4.0.0'
+  flutter: ">=2.5.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  plugin_platform_interface: ^2.0.2
+
+  data:
+    path: ../data
+
+  domain:
+    path: ../domain
+
+  use_cases:
+    path: ../use_cases
+
+  get_it: ^7.6.0
+  dio: ^5.2.1+1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
